@@ -127,7 +127,7 @@ export const learningJourney = [
 export const courses = [
   {
     title: "JavaScript",
-    previewImage: "/assets/courses/js.jpg",
+    previewImage: "/assets/courses/js.png",
     author: {
       image: "/assets/courses/authors/author1.jpg",
       name: "Chris Impley",
@@ -138,7 +138,7 @@ export const courses = [
   },
   {
     title: "ReactJS",
-    previewImage: "/assets/courses/ReactJs.jpg",
+    previewImage: "/assets/courses/react.png",
     author: {
       image: "/assets/courses/authors/author2.jpg",
       name: "Chris Impley",
@@ -149,7 +149,7 @@ export const courses = [
   },
   {
     title: "VueJS",
-    previewImage: "/assets/courses/vue.jpg",
+    previewImage: "/assets/courses/vue.png",
     author: {
       image: "/assets/courses/authors/author3.jpg",
       name: "Chris Impley",
@@ -160,7 +160,7 @@ export const courses = [
   },
   {
     title: "Telegram BOT",
-    previewImage: "/assets/courses/Tbot.jpg",
+    previewImage: "/assets/courses/Tbot.png",
     author: {
       image: "/assets/courses/authors/author4.jpg",
       name: "Chris Impley",
@@ -171,7 +171,7 @@ export const courses = [
   },
   {
     title: "React Native",
-    previewImage: "/assets/courses/reactNative.jpg",
+    previewImage: "/assets/courses/react.png",
     author: {
       image: "/assets/courses/authors/author5.jpg",
       name: "Chris Impley",
@@ -182,7 +182,7 @@ export const courses = [
   },
   {
     title: "Foundation",
-    previewImage: "/assets/courses/foundation.jpg",
+    previewImage: "/assets/courses/foundation.png",
     author: {
       image: "/assets/courses/authors/author6.jpg",
       name: "Chris Impley",
