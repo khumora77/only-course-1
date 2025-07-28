@@ -15,10 +15,10 @@ import {
 } from "react-icons/di";
 
 export const navLinks = [
-  { route: "", name: "Home", icon: Home },
-  { route: "courses", name: "Courses", icon: ListVideo },
-  { route: "blogs", name: "Blogs", icon: Rss },
-  { route: "contact", name: "Contact", icon: Contact },
+  { route: "", name: "navLink1", icon: Home },
+  { route: "courses", name: "navLink2", icon: ListVideo },
+  { route: "blogs", name: "navLink3", icon: Rss },
+  { route: "contact", name: "navLink4", icon: Contact },
 ];
 
 export const lngs = [
@@ -29,7 +29,6 @@ export const lngs = [
 ];
 
 export const companies = [
-  DiDocker,
   DiCreativecommonsBadge,
   DiGhost,
   DiGithubFull,
